@@ -34,7 +34,7 @@ Transcriber’s Note
 
 
 Italic text is enclosed in _underscores_; boldface text is enclosed in
-=equals signs=; underlined text is enclosed in ~tildas~.
+=equals signs=; underlined text is enclosed in ~tildes~.
 
 
 
